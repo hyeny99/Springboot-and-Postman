@@ -7,7 +7,7 @@ Documentation with Swagger.
 ## Introduction
 This is part of a MEAN-stack project. We will go through this step by step. </br>
 In the part 1, we built a simple interface that prints the result on the console.
-It was enough to test if our code works fine, it obviously has a limit. </br>
+It was enough to test our code, but it obviously has a limit.
 If a user wants to access the interface and retrieve or create/update the data, how can they gain the access from outside?
 It would be impossible for the user unless they have the code. </br>
 So, how can we improve this? The answer is simple! We can make a http browser using Springboot! </br>
